@@ -1,0 +1,51 @@
+.jersey-10-regular {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.header{
+    display: flex;
+    gap: 40px;
+    font-size: 25px;
+    align-items: center;
+}
+
+.header_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_bottom{
+    display: flex;
+    gap: 10px;
+    font-size: 25px;
+}
+
+header div h2 {
+    font-size: 40px;;
+}
+
+.image_template{
+    width: 400px;
+    text-align: center;
+    margin: 10px;
+}
+
+.image_template p{
+    font-size: 23px;
+}
+
+.main_body{
+    display: flex;
+    justify-content: center;
+    flex-basis: 200px;
+    flex-wrap: wrap;
+    gap: 100px 100px;
+}
+
+body{
+    background-color: rgb(255, 253, 248);
+}
